@@ -30,10 +30,6 @@
 
   - `XLM-RoBERTa-LARGE` (https://huggingface.co/xlm-roberta-large) model fine-tuning
 
-  ### Loss
-
-  - `F1 loss` + `Focal loss` (gamma = 5)
-
   ### Training time augmentaion
 
   - `TEM(Typed Entity Marker)` (https://arxiv.org/pdf/2102.01373.pdf)
